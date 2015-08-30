@@ -1,0 +1,3 @@
+git init for creating a rep in current dir.
+no commit 
+and no tracked files

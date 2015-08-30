@@ -1,0 +1,7 @@
+git clone url  to get a complete repository
+git diff idOld idNew
+count green and red
+
+with diff checkout i can see where a bug was introduced and how, so do things without fear S
+
+set enviroment for nicer work with the following link https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3341718587
