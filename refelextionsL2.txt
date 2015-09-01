@@ -1,3 +1,35 @@
 git init for creating a rep in current dir.
 no commit 
 and no tracked files
+
+git status for checking current working directory files status (added to staging or not, commited or not)
+
+git checkout master for going back to the head
+
+git add to add to staging area
+
+git diff comparing working directory with staging 
+
+git diff -staging comparing staging with last commit  < wrong
+git diff head to compare with head branch the staging working dir
+
+branch is good for having a branch for experimenting while having a stable version still available or for slightly alterate versions.
+
+git log --graph --oneline master MakeItHarder  to see how a branch relates to the head branch
+
+checout a commit and doing changes in it will make it onreachable unless you start a new branch  with it like 
+git checkout -b NewBranchRishi
+
+git branch newBranchRishi  
+git checkout newBranchRishi
+
+git checkout -f undo changes.
+
+git show id  shows diff with parent
+
+merging is not as easy as udacity make it look, just adding enters a spaces fucks up things. git merge branch1 branch2  does the magic sometimes.
+g
+
+so when already have data create repository without readme and create a remote after this push it  real good.
+
+
